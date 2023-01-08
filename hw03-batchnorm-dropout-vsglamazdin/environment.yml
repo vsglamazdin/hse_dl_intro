@@ -1,0 +1,19 @@
+name: jupyter-actions
+channels:
+    - conda-forge
+dependencies:
+  - jupyter=1.0
+  - nbformat
+  - nbconvert
+  - numpy
+  - requests
+  - pytest
+  - scikit-learn
+  - pandas
+  - pytorch
+  - opencv
+  - torchvision
+  - tqdm
+  - tensorboard
+  - matplotlib
+  - scipy
